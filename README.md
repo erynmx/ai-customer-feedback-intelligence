@@ -1,4 +1,4 @@
-# AI-Powered Customer Feedback Intelligence System — V2
+# AI-Powered Customer Feedback Intelligence System — 
 
 NLP/ML portfolio project for automatically analyzing customer feedback.
 
