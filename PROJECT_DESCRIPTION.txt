@@ -1,0 +1,3 @@
+AI-Powered Customer Feedback Intelligence System
+
+An NLP and machine-learning application that automatically analyzes customer feedback, identifies sentiment and issue type, assigns business priority, and recommends an action. Built with Python, Pandas, Scikit-learn, TF-IDF, Logistic Regression, Streamlit and Plotly. Includes model evaluation with accuracy, precision, recall, F1 score and confusion matrix.
