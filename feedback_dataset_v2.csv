@@ -1,0 +1,41 @@
+review_id,feedback,category,sentiment,priority
+R001,"The delivery arrived late and customer support did not respond.",Delivery,Negative,High
+R002,"Amazing product quality and very fast delivery.",Product Quality,Positive,Low
+R003,"The app crashes every time I try to place an order.",App/Technical,Negative,High
+R004,"I love the simple interface and quick checkout.",User Experience,Positive,Low
+R005,"The product is okay but the packaging could be better.",Packaging,Neutral,Medium
+R006,"Refund was processed quickly. Very happy with the service.",Refund,Positive,Low
+R007,"I was charged twice for the same order.",Billing,Negative,High
+R008,"Customer support solved my issue within minutes.",Customer Support,Positive,Low
+R009,"The item I received was damaged.",Product Quality,Negative,High
+R010,"Delivery was on time and everything was perfect.",Delivery,Positive,Low
+R011,"The website is slow during checkout.",App/Technical,Negative,High
+R012,"Please add more payment options.",Feature Request,Neutral,Low
+R013,"The support team ignored my emails for two days.",Customer Support,Negative,High
+R014,"Great experience, I will definitely order again.",User Experience,Positive,Low
+R015,"The refund is taking too long.",Refund,Negative,High
+R016,"Product works as expected.",Product Quality,Positive,Low
+R017,"The price is reasonable but delivery tracking needs improvement.",Delivery,Neutral,Medium
+R018,"Checkout failed twice before working.",App/Technical,Negative,High
+R019,"Packaging was excellent and secure.",Packaging,Positive,Low
+R020,"I want an option to save products for later.",Feature Request,Neutral,Low
+R021,"Wrong item was delivered to me.",Delivery,Negative,High
+R022,"Very helpful support agent.",Customer Support,Positive,Low
+R023,"The product feels average for the price.",Product Quality,Neutral,Medium
+R024,"Payment failed but money was deducted.",Billing,Negative,High
+R025,"The dashboard is clean and easy to use.",User Experience,Positive,Low
+R026,"Please add UPI and more payment options to checkout.",Feature Request,Neutral,Low
+R027,"The app became unresponsive after login.",App/Technical,Negative,High
+R028,"Refund arrived earlier than expected.",Refund,Positive,Low
+R029,"The box was crushed when it arrived.",Packaging,Negative,High
+R030,"Everything went smoothly from order to delivery.",User Experience,Positive,Low
+R031,"Please add dark mode to the dashboard.",Feature Request,Neutral,Low
+R032,"I would like a WhatsApp notification when my order ships.",Feature Request,Neutral,Low
+R033,"The payment page charged me twice.",Billing,Negative,High
+R034,"Please allow users to export their invoices.",Feature Request,Neutral,Low
+R035,"My order is still not delivered after a week.",Delivery,Negative,High
+R036,"The support agent was polite and helpful.",Customer Support,Positive,Low
+R037,"The mobile app freezes on the checkout screen.",App/Technical,Negative,High
+R038,"Please add a wishlist feature.",Feature Request,Neutral,Low
+R039,"The packaging was secure and professional.",Packaging,Positive,Low
+R040,"I am unhappy with the damaged product.",Product Quality,Negative,High
